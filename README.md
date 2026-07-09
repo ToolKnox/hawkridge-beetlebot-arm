@@ -6,7 +6,7 @@ Status: draft / review package. Not published for release.
 
 ## Links
 
-- Printables draft: pending
+- Printables draft: https://www.printables.com/model/1776625-beetlebot-arm
 - Original source/remix parent: https://github.com/Kartik-Singhal26/Beetlebot-Arm
 - Maker Portal slug: `beetlebot-arm`
 
