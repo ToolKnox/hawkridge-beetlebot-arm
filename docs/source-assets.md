@@ -1,10 +1,10 @@
 # Source assets
 
-Original source: https://github.com/Kartik-Singhal26/Beetlebot-Arm
+Original source/remix parent: https://github.com/Kartik-Singhal26/Beetlebot-Arm
 
-This repo tracks the Hawkridge documentation/refurbishment pass. Source code and PCB assets stay attributed to the original upstream project until a full import/refurbishment pass is approved.
+This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
 
-## Code/config candidates
+## Code, firmware, and configuration
 
 - `beetlebot_config/config/joint_names_beetlebot_config.yaml`
 - `beetlebot_config/launch/display.launch`
@@ -28,7 +28,6 @@ This repo tracks the Hawkridge documentation/refurbishment pass. Source code and
 - `beetlebot_moveit_config/launch/gazebo.launch`
 - `beetlebot_moveit_config/launch/joystick_control.launch`
 - `beetlebot_moveit_config/launch/move_group.launch`
-- `beetlebot_moveit_config/launch/moveit.rviz`
 - `beetlebot_moveit_config/launch/moveit_rviz.launch`
 - `beetlebot_moveit_config/launch/ompl_planning_pipeline.launch.xml`
 - `beetlebot_moveit_config/launch/planning_context.launch`
@@ -42,6 +41,6 @@ This repo tracks the Hawkridge documentation/refurbishment pass. Source code and
 - `beetlebot_moveit_config/launch/warehouse_settings.launch.xml`
 - `beetlebot_moveit_config/package.xml`
 
-## PCB/electronics manufacturing candidates
+## PCB and electronics manufacturing assets
 
 - `beetlebot_config/urdf/beetlebot_config.csv`
