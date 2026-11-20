@@ -12,6 +12,10 @@ Download the complete build documentation/source package from this GitHub reposi
 
 ## Installation / quick start
 
+## Bill of Material
+
+[Bill of Material (PDF)](BOM.pdf): every part to buy, with shop links.
+
 ## Project
 
 Beetlebot Arm
